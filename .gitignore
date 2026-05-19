@@ -1,0 +1,23 @@
+# Terraform local state
+terraform.tfstate
+terraform.tfstate.backup
+*.tfstate
+*.tfstate.backup
+
+# Terraform working directory
+.terraform/
+.terraform.lock.hcl
+
+# Terraform plans
+*.tfplan
+
+# Variables files
+*.tfvars
+*.tfvars.json
+
+# SSH keys (NEVER commit private keys)
+*.pem
+
+# OS/editor noise
+.DS_Store
+*.swp
