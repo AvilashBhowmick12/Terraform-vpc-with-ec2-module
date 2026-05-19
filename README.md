@@ -1,3 +1,5 @@
+![Terraform Validate](../../actions/workflows/terraform-validate.yml/badge.svg)
+
 # Terraform AWS EC2 Infrastructure from Scratch
 
 ## 📌 Project Overview
