@@ -1,4 +1,4 @@
-![Terraform Validate](../../actions/workflows/terraform-validate.yml/badge.svg)
+[![Terraform Validate](https://github.com/AvilashBhowmick12/Terraform-vpc-with-ec2-module/actions/workflows/terraform-validate.yml/badge.svg?branch=main)](https://github.com/AvilashBhowmick12/Terraform-vpc-with-ec2-module/actions/workflows/terraform-validate.yml)
 
 # Terraform AWS EC2 Infrastructure from Scratch
 
